@@ -5,6 +5,7 @@ body {
 	color: white;
 	font-size: 26px;
 	font-family: "Myanmar Sangam", "Myanmar Sangam MN", arial, sans-serif;
+	top: 50px;
 } 
 h1 {
 	font-family: "Monotype Corsiva", "Monotype Corsiva Bold", Georgia, serif;
@@ -20,8 +21,14 @@ h1 {
 h2 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	font-size: 37px;
+	top: 100px;
 }
 hr {
 	border-color: #fd6e6e;
 	margin: 0;
 	width: 40px;
+	top: 55px;
+}
+p {
+	top: 60px;
+}
