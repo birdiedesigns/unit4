@@ -1,24 +1,25 @@
 body {
-	background: url(#), #52596b;
+	background: url(https://raw.githubusercontent.com/birdiedesigns/unit4/master/images/_MG_5814-9.jpg);
 	background-repeat: no-repeat;
-	color: #fff;
+	background-size: 50em;
+	color: white;
 	font-size: 26px;
-	font-family: Gill Sans MT Bold, arial, sans-serif;
-	margin: 270px 200px;
-	font-weight: 200;
-	line-height: 32px;
+	font-family: "Myanmar Sangam", "Myanmar Sangam MN", arial, sans-serif;
 } 
 h1 {
-	background: url(https://raw.githubusercontent.com/birdiedesigns/unit3/master/images/logo-taasky.png);
+	font-family: "Monotype Corsiva", "Monotype Corsiva Bold", Georgia, serif;
+	font-size: 48px;
 	background-repeat: no-repeat;
-	display: block;
-	width: 147px;
-	height: 144px;
-	
-	/*Hide Text*/
-	text-indent: 1000em;
-	white-space: nowrap;
-	overflow: hidden; 
+	width: 100px;
+	height: 150px;
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	z-index: 1000;
+}
+h2 {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 37px;
 }
 hr {
 	border-color: #fd6e6e;
